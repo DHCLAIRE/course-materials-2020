@@ -15,4 +15,5 @@ Materials for the 2020 NeuroDataScience Course (McGill QLS612)
      `e.g. /Users/ting-hsin/Docs/Github/ICN_related` *>> back to*  `/Users/ting-hsin/Docs/Github`
 - `cd ../..` : Return to the 2nd prior layer of the directory  
      `e.g. /Users/ting-hsin/Docs/Github/ICN_related` *>> back to*  `/Users/ting-hsin/Docs`
-- 
+- `cd ~/XXX/..` : A combo commands for changing directory  
+     `Explanation: ~ >>> back to home dirc; /XXX/ >>> Go the following dirc; .. >>> return to the prior dirc`
